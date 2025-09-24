@@ -21,7 +21,7 @@ However, the project was not put into production or actively used.
 ## ⚙️ Kullanılan Teknolojiler | Tech Stack
 
 - Next.js  
-- React  
+- NodeJS  
 - Tailwind CSS (varsa kullanıldıysa ekleyebilirsin)  
 - Responsive tasarım
 
